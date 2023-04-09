@@ -5,5 +5,5 @@ SkillForge is an educational app designed to help students track their study pro
 # Getting Started
 To use SkillForge, simply download the app from the Google Play Store or Apple App Store. Once you have installed the app, create an account and enter your study information. You can then create a personalized timetable based on your upcoming exams and the topics you need to cover. The app will track your progress and help you stay on track to meet your study goals.
 
-#Contributing
+# Contributing
 We welcome contributions from the community to improve SkillForge. To contribute, simply fork the repository and make your changes. Once you have made your changes, submit a pull request, and we will review your changes.
